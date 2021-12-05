@@ -1,0 +1,21 @@
+.DS_Store
+.dart_tool/
+
+.packages
+.pub/
+
+build/
+
+.flutter-plugins
+*.log
+
+# IntelliJ
+*.iml
+.idea/
+ios/Flutter/.last_build_id
+pubspec.lock
+ios/Podfile.lock
+.flutter-plugins-dependencies
+android/app/key.jks
+ios/Flutter/Flutter.podspec
+ios/Flutter/flutter_export_environment.sh
